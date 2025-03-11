@@ -1,0 +1,36 @@
+{
+    "name": "7th school project ",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "story": "github:riknoll/arcade-story#v1.3.1",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "animation": "*",
+        "sprite-scaling": "*",
+        "sevenseg": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.61",
+        "tag": "v1.12.61",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/ca55e606e8e9dc22645e01ace221016fe52ca101",
+        "target": "1.12.61",
+        "pxt": "8.5.71",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
